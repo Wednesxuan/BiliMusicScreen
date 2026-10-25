@@ -1,2 +1,3 @@
 # BiliMusicScreen
 尝试把B站的视频播放器改成音乐播放器的东西
+目前暂未编辑readme，目前不建议安装使用
