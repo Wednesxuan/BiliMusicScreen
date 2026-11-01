@@ -1,6 +1,6 @@
 # BiliMusicScreen
 
-B 站在网页端没有听视频的功能，虽然已经有不少大佬制作了专门在 B 站听音乐的项目，但他们都是独立软件或没有直接改到播放器的插件。
+B 站在网页端没有听视频的功能，虽然已经有不少大佬制作了专门在 B 站听音乐的项目，但他们大多独立软件或没有直接改到播放器的插件。
 
 在受到之前用过的独立软件 [SaltPlayer](https://github.com/Moriafly/SaltPlayerSource) 和 BetterNCM 中的一个插件 [Refined Now Playing](https://github.com/solstice23/refined-now-playing-netease) 等编写了这个插件/脚本。
 
