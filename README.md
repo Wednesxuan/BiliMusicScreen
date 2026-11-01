@@ -5,7 +5,9 @@ B 站在网页端没有听视频的功能，虽然已经有不少大佬制作了
 在受到之前用过的独立软件 [SaltPlayer](https://github.com/Moriafly/SaltPlayerSource) 和 BetterNCM 中的一个插件 [Refined Now Playing](https://github.com/solstice23/refined-now-playing-netease) 等界面设计上的启发用AI编写了这个浏览器扩展/用户脚本。
 
 > [!IMPORTANT]
-> 该脚本完全由 AI（[Deepseek](https://www.deepseek.com/) ，v4.1-flash）编写，我只检查了可用性以及简单的安全性检查，可能有 bug 或风险，如果介意请不要使用。
+> 1.该浏览器扩展/用户脚本完全由 AI（[Deepseek](https://www.deepseek.com/) ，v4.1-flash）编写，我只检查了可用性以及简单的安全性检查，可能有 bug 或风险，如果介意请不要使用。
+>
+> 2.我没有太多时间来查看或维护这个仓库，如果你是用户，开发者或官方，你们的行为或请求可能无法及时查看或回复，还请理解。
 
 BiliMusicScreen 是一个适用于 B 站视频详情页的音乐播放插件/脚本，可以让你在 B 站视频播放器上获得在音乐平台或者是本地音乐播放器上的听歌体验。
 
