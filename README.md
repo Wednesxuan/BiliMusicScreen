@@ -2,7 +2,7 @@
 
 B 站在网页端没有听视频的功能，虽然已经有不少大佬制作了专门在 B 站听音乐的项目，但他们大多是独立软件或没有直接改到播放器的浏览器扩展。
 
-在受到之前用过的独立软件 [SaltPlayer](https://github.com/Moriafly/SaltPlayerSource) 和 BetterNCM 中的一个插件 [Refined Now Playing](https://github.com/solstice23/refined-now-playing-netease) 等界面设计上的启发编写了这个浏览器扩展/用户脚本。
+在受到之前用过的独立软件 [SaltPlayer](https://github.com/Moriafly/SaltPlayerSource) 和 BetterNCM 中的一个插件 [Refined Now Playing](https://github.com/solstice23/refined-now-playing-netease) 等界面设计上的启发用AI编写了这个浏览器扩展/用户脚本。
 
 > [!IMPORTANT]
 > 该脚本完全由 AI（[Deepseek](https://www.deepseek.com/) ，v4.1-flash）编写，我只检查了可用性以及简单的安全性检查，可能有 bug 或风险，如果介意请不要使用。
